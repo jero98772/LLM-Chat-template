@@ -12,7 +12,7 @@ A flexible and customizable template for building chat applications with multipl
 
 ## Screenshot
 
-![LLM Chat Template Screenshot](https://via.placeholder.com/800x500?text=LLM+Chat+Template)
+![LLM Chat Template Screenshot](https://github.com/jero98772/LLM-Chat-template/blob/main/docs/1.png)
 
 ## Getting Started
 
@@ -26,7 +26,7 @@ A flexible and customizable template for building chat applications with multipl
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/jero98772/LLm-template.git
+   git clone https://github.com/jero98772/LLM-Chat-template.git
    cd LLm-template
    ```
 
@@ -125,11 +125,5 @@ The current implementation uses in-memory storage. To add persistent storage:
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the GPLV3 License - see the LICENSE file for details.
 
-## Acknowledgments
-
-- Bootstrap for the UI components
-- FastAPI for the backend framework
-- LM Studio for local LLM hosting
-- Google for the Gemini API
